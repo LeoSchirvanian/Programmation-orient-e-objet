@@ -1,2 +1,0 @@
-# Programmation-orient-e-objet
-8INF957 PROGRAMMATION OBJET AVANCEE | UQAC | AVRIL 2020
